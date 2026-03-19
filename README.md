@@ -2,9 +2,11 @@
 
 ## Autores
 Rogelio Sosa Luna - 751476
+---
 David Vela -751183
+---
 Manuel Lopez - 753353
-
+---
 ---
 
 ## Descripción
